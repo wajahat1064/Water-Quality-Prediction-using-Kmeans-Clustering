@@ -1,1 +1,1 @@
-# Water-Quality-using-Kmeans-Clustering
+# Water-Quality-Prediction-using-Kmeans-Clustering
